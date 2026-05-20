@@ -62,3 +62,13 @@ This repository is a sanitized demo project for showcasing the workflow design a
 ## Disclaimer
 
 本仓库为脱敏 Demo 项目，仅用于展示信贷风控建模前置分析 Skill 的流程设计与脚本化实现，不包含任何公司数据、客户数据、内部产品逻辑或真实业务规则。
+
+## 共建与交流 | Contribution
+
+本项目仍处于早期探索阶段，欢迎对信贷风控建模、特征分析自动化、Agent Skill 工作流设计感兴趣的朋友提出建议或参与共建。
+希望通过这个项目一起探索 Agent Skill 在垂直业务场景中的应用方式，尤其是如何将信贷风控建模中的前置分析、特征评估、自动化建模和结果解释等流程沉淀为可复用的分析工作流。
+欢迎通过 Issues 提出建议、反馈问题或交流设计思路，也欢迎提交 Pull Request 参与共建。
+
+This project is still in an early stage. Feedback, suggestions, and contributions are welcome.
+I hope to explore how Agent Skills can be applied to vertical domains such as credit risk modeling, feature analysis, and automated modeling workflows.
+Feel free to open an Issue for feedback, questions, or discussions, and Pull Requests are welcome.
